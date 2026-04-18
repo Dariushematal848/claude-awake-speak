@@ -1,0 +1,23 @@
+{
+  "hooks_config_example": {
+    "hooks": {
+      "Stop": [
+        {
+          "matcher": "",
+          "hooks": [
+            {
+              "type": "command",
+              "command": "python ~/.claude/hooks/tts-speak.py",
+              "timeout": 30,
+              "async": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "notes": {
+    "Windows": "把 command 改为: python C:/Users/你的用户名/.claude/hooks/tts-speak.py",
+    "macOS_Linux": "直接用 python ~/.claude/hooks/tts-speak.py"
+  }
+}
